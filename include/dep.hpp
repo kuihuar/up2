@@ -12,6 +12,6 @@ private:
 public:
     void myAdd();
     int myAdd(int a, int b);
-    MyCalulate(int a, int b);
+    MyCalulate();
     ~MyCalulate();
 };
